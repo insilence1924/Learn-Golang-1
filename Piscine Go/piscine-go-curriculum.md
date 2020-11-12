@@ -19,14 +19,14 @@ Videos:
 
 Exercices:
 
--   printalphabet | https://public.01-edu.org/subjects/printalphabet.en
--   printreversealphabet | https://public.01-edu.org/subjects/printreversealphabet.en
--   prindigits | https://public.01-edu.org/subjects/printdigits.en
--   isnegative | https://public.01-edu.org/subjects/isnegative.en
--   printcomb | https://public.01-edu.org/subjects/printcomb.en
--   printcomb2 | https://public.01-edu.org/subjects/printcomb2.en
--   printnbr | https://public.01-edu.org/subjects/printnbr.en
--   printcombn | https://public.01-edu.org/subjects/printcombn.en
+-   printalphabet | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-2/printalphabet.en
+-   printreversealphabet | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-2/printreversealphabet.en
+-   prindigits | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-2/printdigits.en
+-   isnegative | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-2/isnegative.en
+-   printcomb | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-2/printcomb.en
+-   printcomb2 | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-2/printcomb2.en
+-   printnbr | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-2/printnbr.en
+-   printcombn | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-2/printcombn.en
 
 ### Quest 3
 
