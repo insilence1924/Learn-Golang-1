@@ -180,7 +180,7 @@ Videos:
 
 Exercices:
 
--   bool | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-8/bool.en.md
+-   bool | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-8/boolean.en.md
 -   point | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-8/point.en.md
 -   displayfile | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-8/displayfile.en.md
 -   cat | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-8/cat.en.md
