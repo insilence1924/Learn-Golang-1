@@ -43,26 +43,24 @@ Videos:
 
 Exercices:
 
--   pointone | https://public.01-edu.org/subjects/pointone.en
--   ultimatepointone | https://public.01-edu.org/subjects/ultimatepointone.en
--   divmod | https://public.01-edu.org/subjects/divmod.en
--   ultimatedivmod | https://public.01-edu.org/subjects/ultimatedivmod.en
--   printstr | https://public.01-edu.org/subjects/printstr.en
--   strlen | https://public.01-edu.org/subjects/strlen.en
--   swap | https://public.01-edu.org/subjects/swap.en
--   strrev | https://public.01-edu.org/subjects/strrev.en
--   basicatoi | https://public.01-edu.org/subjects/basicatoi.en
--   basicatoi2 | https://public.01-edu.org/subjects/basicatoi2.en
--   atoi | https://public.01-edu.org/subjects/atoi.en
--   sortintegerable | https://public.01-edu.org/subjects/sortintegertable.en
+-   pointone | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/pointone.en.md
+-   ultimatepointone | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/ultimatepointone.en.md
+-   divmod | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/divmod.en.md
+-   ultimatedivmod | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/ultimatedivmod.en.md
+-   printstr | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/printstr.en.md
+-   strlen | hhttps://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/strlen.en.md
+-   swap | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/swap.en.md
+-   strrev | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/strrev.en.md
+-   basicatoi | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/basicatoi.en.md
+-   basicatoi2 | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/basicatoi2.en.md
+-   atoi | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/atoi.en.md
+-   sortintegerable | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/sortintegertable.en.md
 
 ### Exam 1 (4hours)
 
 #### Basic functions and programs skills evaluation, based on Quest 2 and Quest 3
 
 ### Raid 1 - Square Drawing
-
-#### First Group project. Problem resolution. Usage of first knowledge (loop and if/else)
 
 ---
 
@@ -80,15 +78,15 @@ Videos:
 
 Exercices:
 
--   iterativefactorial | https://public.01-edu.org/subjects/iterativefactorial.en
--   recursivefactorial | https://public.01-edu.org/subjects/recursivefactorial.en
--   iterativepower | https://public.01-edu.org/subjects/iterativepower.en
--   recursivepower | https://public.01-edu.org/subjects/recursivepower.en
--   fibonacci | https://public.01-edu.org/subjects/fibonacci.en
--   sqrt | https://public.01-edu.org/subjects/sqrt.en
--   isprime | https://public.01-edu.org/subjects/isprime.en
--   findnextprime | https://public.01-edu.org/subjects/findnextprime.en
--   eightqueens | https://public.01-edu.org/subjects/eightqueens.en
+-   iterativefactorial | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-4/iterativefactorial.en.md
+-   recursivefactorial | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-4/recursivefactorial.en.md
+-   iterativepower | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-4/iterativepower.en.md
+-   recursivepower | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-4/recursivepower.en.md
+-   fibonacci | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-4/fibonacci.en.md
+-   sqrt | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-4/sqrt.en.md
+-   isprime | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-4/isprime.en.md
+-   findnextprime | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-4/findnextprime.en.md
+-   eightqueens | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-4/eightqueens.en.md
 
 ### Quest 5
 
@@ -102,24 +100,24 @@ Videos:
 
 Exercices:
 
--   firstrune | https://public.01-edu.org/subjects/firstrune.en
--   nrune | https://public.01-edu.org/subjects/nrune.en
--   lastrune | https://public.01-edu.org/subjects/lastrune.en
--   index | https://public.01-edu.org/subjects/index.en
--   compare | https://public.01-edu.org/subjects/compare.en
--   toupper | https://public.01-edu.org/subjects/toupper.en
--   tolower | https://public.01-edu.org/subjects/tolower.en
--   capitalize | https://public.01-edu.org/subjects/capitalize.en
--   isalpha | https://public.01-edu.org/subjects/isalpha.en
--   isnumeric | https://public.01-edu.org/subjects/isnumeric.en
--   islower | https://public.01-edu.org/subjects/islower.en
--   isupper | https://public.01-edu.org/subjects/isupper.en
--   isprintable | https://public.01-edu.org/subjects/isprintable.en
--   concat | https://public.01-edu.org/subjects/concat.en
--   basicjoin | https://public.01-edu.org/subjects/basicjoin.en
--   join | https://public.01-edu.org/subjects/join.en
--   printnbrbase | https://public.01-edu.org/subjects/printnbrbase.en
--   atoibase | https://public.01-edu.org/subjects/atoibase.en
+-   firstrune | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/firstrune.en.md
+-   nrune | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/nrune.en.md
+-   lastrune | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/lastrune.en.md
+-   index | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/index.en.md
+-   compare | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/compare.en.md
+-   toupper | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/toupper.en.md
+-   tolower | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/tolower.en.md
+-   capitalize | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/capitalize.en.md
+-   isalpha | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/isalpha.en.md
+-   isnumeric | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/isnumeric.en.md
+-   islower | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/islower.en.md
+-   isupper | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/isupper.en.md
+-   isprintable | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/isprintable.en.md
+-   concat | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/concat.en.md
+-   basicjoin | https://public.01-edu.org/subjects/basicjoin.en.md
+-   join | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/join.en.md
+-   printnbrbase | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/printnbrbase.en.md
+-   atoibase | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/atoibase.en.md
 
 ### Quest 6
 
@@ -133,10 +131,10 @@ Videos:
 
 Exercices:
 
--   printprogramname | https://public.01-edu.org/subjects/printprogramname.en
--   printparams | https://public.01-edu.org/subjects/printparams.en
--   revparams | https://public.01-edu.org/subjects/revparams.en
--   sortparams | https://public.01-edu.org/subjects/sortparams.en
+-   printprogramname | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-6/printprogramname.en.md
+-   printparams | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-6/printparams.en.md
+-   revparams | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-6/revparams.en.md
+-   sortparams | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-6/sortparams.en.md
 
 ### Quest 7
 
@@ -150,13 +148,13 @@ Videos:
 
 Exercices:
 
--   appendrange | https://public.01-edu.org/subjects/apprendrange.en
--   makerange | https://public.01-edu.org/subjects/makerange.en
--   concatparams | https://public.01-edu.org/subjects/concatparams.en
--   splitwhitespaces | https://public.01-edu.org/subjects/splitwhitespaces.en
--   printwordstables | https://public.01-edu.org/subjects/printwordstables.en
--   convertbase | https://public.01-edu.org/subjects/converbase.en
--   split | https://public.01-edu.org/subjects/split.en
+-   appendrange | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/apprendrange.en.md
+-   makerange | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/makerange.en.md
+-   concatparams | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/concatparams.en.md
+-   splitwhitespaces | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/splitwhitespaces.en.md
+-   printwordstables | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/printwordstables.en.md
+-   convertbase | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/converbase.en.md
+-   split | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/split.en.md
 
 ### Exam 2 (4hours)
 
@@ -164,7 +162,6 @@ Exercices:
 
 ### Raid 2 - Sudoku
 
-#### Second Group project. Problem resolution. Usage of Memory manipulation tools
 
 ---
 
@@ -183,11 +180,11 @@ Videos:
 
 Exercices:
 
--   bool | https://public.01-edu.org/subjects/bool.en
--   point | https://public.01-edu.org/subjects/point.en
--   displayfile | https://public.01-edu.org/subjects/displayfile.en
--   cat | https://public.01-edu.org/subjects/cat.en
--   ztail | https://public.01-edu.org/subjects/ztail.en
+-   bool | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-8/bool.en.md
+-   point | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-8/point.en.md
+-   displayfile | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-8/displayfile.en.md
+-   cat | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-8/cat.en.md
+-   ztail | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-8/ztail.en.md
 
 ### Quest 9
 
@@ -201,14 +198,14 @@ Videos:
 
 Exercices:
 
--   foreach | https://public.01-edu.org/subjects/foreach.en
--   map | https://public.01-edu.org/subjects/map.en
--   any | https://public.01-edu.org/subjects/any.en
--   countif | https://public.01-edu.org/subjects/countif.en
--   issorted | https://public.01-edu.org/subjects/issorted.en
--   doop | https://public.01-edu.org/subjects/doop.en
--   sortwordarr | https://public.01-edu.org/subjects/sortwordarr.en
--   advancedsortwordarr | https://public.01-edu.org/subjects/advancedsortwordarr.en
+-   foreach | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/foreach.en.md
+-   map | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/map.en.md
+-   any | hhttps://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/any.en.md
+-   countif | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/countif.en.md
+-   issorted | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/issorted.en.md
+-   doop | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/doop.en.md
+-   sortwordarr | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/sortwordarr.en.md
+-   advancedsortwordarr | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/advancedsortwordarr.en.md
 
 ### Quest 10
 
@@ -218,18 +215,18 @@ Notions: All previously viewed concepts in team work
 
 Exercices:
 
--   rot14 | https://public.01-edu.org/subjects/rot14.en
--   abort | https://public.01-edu.org/subjects/abort.en
--   collatzcountdown | https://public.01-edu.org/subjects/collatzcountdown.en
--   comcheck | https://public.01-edu.org/subjects/comcheck.en
--   enigma | https://public.01-edu.org/subjects/enigma.en
--   pilot | https://public.01-edu.org/subjects/pilot.en
--   fixthemain | https://public.01-edu.org/subjects/fixthemain.en
--   compact | https://public.01-edu.org/subjects/compact.en
--   activebits | https://public.01-edu.org/subjects/activebits.en
--   max | https://public.01-edu.org/subjects/max.en
--   join | https://public.01-edu.org/subjects/join.en
--   unmatch | https://public.01-edu.org/subjects/unmatch.en
+-   rot14 | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-10/rot14.en.md
+-   abort | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-10/abort.en.md
+-   collatzcountdown | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-10/collatzcountdown.en.md
+-   comcheck | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-10/comcheck.en.md
+-   enigma | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-10/enigma.en.md
+-   pilot | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-10/pilot.en.md
+-   fixthemain | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-10/fixthemain.en.md
+-   compact | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-10/compact.en.md
+-   activebits | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-10/activebits.en.md
+-   max | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-10/max.en.md
+-   join | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-10/join.en.md
+-   unmatch | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-10/unmatch.en.md
 
 ### Exam 3 (4hours)
 
@@ -237,4 +234,3 @@ Exercices:
 
 ### Raid 3 - File Reader
 
-#### Second Group project. Problem resolution. File manipulation based on Raid 1
