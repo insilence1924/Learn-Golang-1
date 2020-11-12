@@ -148,12 +148,12 @@ Videos:
 
 Exercices:
 
--   appendrange | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/apprendrange.en.md
+-   appendrange | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/appendrange.en.md
 -   makerange | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/makerange.en.md
 -   concatparams | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/concatparams.en.md
 -   splitwhitespaces | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/splitwhitespaces.en.md
 -   printwordstables | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/printwordstables.en.md
--   convertbase | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/converbase.en.md
+-   convertbase | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/convertbase.en.md
 -   split | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-7/split.en.md
 
 ### Exam 2 (4hours)
