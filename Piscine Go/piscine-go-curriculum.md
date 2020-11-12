@@ -48,7 +48,7 @@ Exercices:
 -   divmod | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/divmod.en.md
 -   ultimatedivmod | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/ultimatedivmod.en.md
 -   printstr | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/printstr.en.md
--   strlen | hhttps://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/strlen.en.md
+-   strlen | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/strlen.en.md
 -   swap | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/swap.en.md
 -   strrev | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/strrev.en.md
 -   basicatoi | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-3/basicatoi.en.md
