@@ -2,9 +2,9 @@
 
 ### Instructions
 
-Écrire une fonction qui retourne la concaténation de deux `string` **séparées** par le séparateur passées en paramètres.
+Write a function that returns the concatenation of all the string of a slice of string separated by the separator passed in argument.
 
-### Fonction attendue
+### Expected function
 
 ```go
 func Join(strs []string, sep string) string{
@@ -12,9 +12,9 @@ func Join(strs []string, sep string) string{
 }
 ```
 
-### Utilisation
+### Usage
 
-Voici un éventuel [programme](TODO-LINK) pour tester votre fonction :
+Here is a possible program to test your function :
 
 ```go
 package main
@@ -30,7 +30,7 @@ func main() {
 }
 ```
 
-Et son résultat :
+And its output :
 
 ```console
 student@ubuntu:~/piscine-go/test$ go build

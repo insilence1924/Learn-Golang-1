@@ -114,7 +114,7 @@ Exercices:
 -   isupper | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/isupper.en.md
 -   isprintable | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/isprintable.en.md
 -   concat | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/concat.en.md
--   basicjoin | https://public.01-edu.org/subjects/basicjoin.en.md
+-   basicjoin | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/basicjoin.en.md
 -   join | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/join.en.md
 -   printnbrbase | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/printnbrbase.en.md
 -   atoibase | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-5/atoibase.en.md
