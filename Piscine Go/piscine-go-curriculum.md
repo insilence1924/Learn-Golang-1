@@ -1,10 +1,4 @@
-# Piscine Go curriculum
-
----
-
-## Week One
-
-### Quest 2
+ Quest 2
 
 #### Introduction to Go Lang and basic programmation concepts
 
@@ -200,7 +194,7 @@ Exercices:
 
 -   foreach | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/foreach.en.md
 -   map | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/map.en.md
--   any | hhttps://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/any.en.md
+-   any | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/any.en.md
 -   countif | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/countif.en.md
 -   issorted | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/issorted.en.md
 -   doop | https://github.com/insilence1924/Learn-Golang-1/blob/master/Piscine%20Go/quest-9/doop.en.md
